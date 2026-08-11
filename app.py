@@ -23,7 +23,7 @@ if not groq_key:
 # Inicializar cerebro y herramientas
 llm = ChatGroq(
     api_key=groq_key,
-    model_name="llama-3.1-70b-versatile",
+    model_name="openai/gpt-oss-120b",
     temperature=0.2
 )
 buscador_web = DuckDuckGoSearchRun()
