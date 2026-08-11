@@ -1,7 +1,9 @@
 streamlit
 streamlit-chat
 langchain
+langchain-core
 langchain-groq
+langchain-community
 duckduckgo-search
 edge-tts
 PyPDF2
