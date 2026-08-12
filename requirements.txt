@@ -1,7 +1,0 @@
-streamlit
-streamlit-chat
-langchain
-langchain-groq
-ddgs
-edge-tts
-PyPDF2
